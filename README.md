@@ -1,2 +1,1 @@
-# GuiaDev
-Felipe e otario
+.
